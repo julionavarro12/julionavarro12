@@ -28,11 +28,11 @@ bem estruturadas, automatizadas e escaláveis.
 - Node.js | Sequelize  
 - PostgreSQL | SQL Server  
 
-### DevOps / Infra (em desenvolvimento)
+### DevOps / Infra
 - Git & GitHub  
 - Docker (containers e ambientes de desenvolvimento)  
 - Conceitos de CI/CD (estudando)  
-- Noções de automação e boas práticas de deploy  
+- Noções de automação
 
 ---
 
